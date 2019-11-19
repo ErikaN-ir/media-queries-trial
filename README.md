@@ -1,7 +1,4 @@
 # Code Institute
-
-Welcome ErikaN-ir,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+## Media Queries
+Purpose of project - To become familiar with media queries.
+Tech used - Github and Gitpod
